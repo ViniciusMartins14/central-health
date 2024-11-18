@@ -1,50 +1,41 @@
-# Welcome to your Expo app 👋
+# Patient Records 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Um aplicativo em React Native desenvolvido para centralizar e gerenciar todos os prontuários médicos de um paciente em um único lugar. Este projeto tem como objetivo facilitar o acesso e compartilhamento de informações médicas entre pacientes e profissionais de saúde.
 
-## Get started
+## 📜 Sobre o Projeto
 
-1. Install dependencies
+Imagine um cenário em que você, como paciente, já passou por diversos hospitais e acumulou prontuários médicos espalhados. Com o Patient Records Centralizer, você pode:
 
-   ```bash
-   npm install
-   ```
+1. 📤 Enviar seus prontuários para o app, centralizando todas as suas informações de saúde em um único lugar.
+2. 📂 Organizar e visualizar seus documentos médicos com facilidade.
+3. 🤝 Compartilhar prontuários com médicos e hospitais, promovendo um atendimento mais rápido e eficiente.
 
-2. Start the app
+## 🏥 Caso de Uso:
 
-   ```bash
-    npx expo start
-   ```
+1. Você é o paciente Vinícius e possui prontuários médicos de vários hospitais.
+2. Ao usar o app, você pode fazer o upload de todos os seus prontuários em diferentes formatos (PDF, imagem, etc.).
+3. Quando visitar um novo hospital ou médico, pode compartilhar diretamente os prontuários necessários por meio do aplicativo.
 
-In the output, you'll find options to open the app in a
+## 🚀 Tecnologias Utilizadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+* React Native - Para o desenvolvimento do aplicativo mobile.
+* TypeScript - Para maior segurança e legibilidade no código.
+* Expo - Para simplificar o desenvolvimento e deploy do app.
+* Axios - Para requisições HTTP.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📦 Funcionalidades
 
-## Get a fresh project
+* Upload de Prontuários: Permite adicionar prontuários médicos em diversos formatos.
+* Gerenciamento de Prontuários: Organize os documentos por hospital, data ou categoria.
+* Compartilhamento Seguro: Envie prontuários diretamente para médicos ou hospitais via link seguro.
+* Acesso Offline: Consulte prontuários mesmo sem conexão à internet.
+* Integração com Hospitais (futuro): Sincronize automaticamente com sistemas hospitalares compatíveis.
 
-When you're ready, run:
+## 📧 Contato
 
-```bash
-npm run reset-project
-```
+Se tiver dúvidas ou sugestões, entre em contato:
+* Autor: Vinicius Lemos Martins
+* Email: viniciuslemosmartins1@gmail.com
+* LinkedIn: [Vinicius Martins](https://www.linkedin.com/in/vinicius-martins-0401381a0/)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# 🌟 Centralize suas informações de saúde com segurança e simplicidade. Experimente o Patient Records Centralizer!
