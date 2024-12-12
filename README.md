@@ -1,20 +1,18 @@
-# Patient Records 👋
+# HealthSync: Gerenciamento de Dados Médicos Centralizado
 
-Um aplicativo em React Native desenvolvido para centralizar e gerenciar todos os prontuários médicos de um paciente em um único lugar. Este projeto tem como objetivo facilitar o acesso e compartilhamento de informações médicas entre pacientes e profissionais de saúde.
+HealthSync é um aplicativo inovador destinado a centralizar e facilitar o compartilhamento de informações médicas entre pacientes, hospitais, clínicas, e outros prestadores de serviços de saúde. Com o HealthSync, os pacientes podem ter acesso fácil e seguro aos seus dados de saúde, permitindo um melhor gerenciamento de seu bem-estar e facilitando a comunicação com seus profissionais de saúde.
 
-## 📜 Sobre o Projeto
+## 📜 Principais Recursos
 
 Imagine um cenário em que você, como paciente, já passou por diversos hospitais e acumulou prontuários médicos espalhados. Com o Patient Records Centralizer, você pode:
 
-1. 📤 Enviar seus prontuários para o app, centralizando todas as suas informações de saúde em um único lugar.
-2. 📂 Organizar e visualizar seus documentos médicos com facilidade.
-3. 🤝 Compartilhar prontuários com médicos e hospitais, promovendo um atendimento mais rápido e eficiente.
-
-## 🏥 Caso de Uso:
-
-1. Você é o paciente Vinícius e possui prontuários médicos de vários hospitais.
-2. Ao usar o app, você pode fazer o upload de todos os seus prontuários em diferentes formatos (PDF, imagem, etc.).
-3. Quando visitar um novo hospital ou médico, pode compartilhar diretamente os prontuários necessários por meio do aplicativo.
+1. Prontuário Eletrônico: Mantenha um registro detalhado de seu histórico médico, incluindo diagnósticos, tratamentos, e consultas passadas.
+2. Histórico de Medicamentos: Registro de todos os medicamentos prescritos, com detalhes sobre dosagem, frequência, período de tratamento, e reações adversas.
+3. Registros de Vacinação: Controle todas as suas vacinas, incluindo datas de aplicação, lotes, e reações, se houver.
+4. Histórico de Consultas e Exames: Acompanhe suas consultas médicas, resultados de exames, e procedimentos, com possibilidade de visualização de imagens diagnósticas.
+5. Alergias e Condições Crônicas: Liste todas as suas alergias medicamentosas ou alimentares, além de registrar condições crônicas para um cuidado contínuo.
+6. Informações de Contato de Emergência: Armazene contatos importantes para situações de emergência, incluindo familiares, amigos ou médicos.
+7. Histórico de Hospitalizações: Documente todas as suas internações, com detalhes sobre datas, diagnósticos, e tratamentos recebidos.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -22,14 +20,9 @@ Imagine um cenário em que você, como paciente, já passou por diversos hospita
 * TypeScript - Para maior segurança e legibilidade no código.
 * Expo - Para simplificar o desenvolvimento e deploy do app.
 * Axios - Para requisições HTTP.
-
-## 📦 Funcionalidades
-
-* Upload de Prontuários: Permite adicionar prontuários médicos em diversos formatos.
-* Gerenciamento de Prontuários: Organize os documentos por hospital, data ou categoria.
-* Compartilhamento Seguro: Envie prontuários diretamente para médicos ou hospitais via link seguro.
-* Acesso Offline: Consulte prontuários mesmo sem conexão à internet.
-* Integração com Hospitais (futuro): Sincronize automaticamente com sistemas hospitalares compatíveis.
+  
+## Licença
+Este projeto está licenciado sob a Licença MIT (LICENSE.md), permitindo uso, cópia, modificação, fusão, publicação, distribuição, sublicense e/ou venda de cópias do Software, sujeito às condições estabelecidas na licença.****
 
 ## 📧 Contato
 
