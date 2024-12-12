@@ -92,7 +92,7 @@ export function CalendarRangeButton() {
   return (
     <View>
       <TouchableOpacity onPress={toggleCalendar} style={styles.container}>
-        <Feather name="calendar" size={24} color={colors.black} />
+        <Feather name="calendar" size={18} color={colors.black} />
       </TouchableOpacity>
       {showCalendar && (
         <Modal transparent animationType="slide">
