@@ -24,6 +24,7 @@ export default function AllRecordsScreen() {
         </View>
       </View>
       <FlatList
+        style={{ width: '100%' }}
         data={records}
         keyExtractor={(item) => item.id.toString()}
         renderItem={({ item }) => (
